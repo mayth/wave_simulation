@@ -1,0 +1,22 @@
+{
+  "name": "wave_simulation",
+  "version": "0.0.0",
+  "homepage": "https://github.com/mayth/wave_simulation",
+  "authors": [
+    "mayth <chimeaquas@hotmail.com>"
+  ],
+  "main": "main.js",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "pure": "~0.5.0"
+  }
+}
